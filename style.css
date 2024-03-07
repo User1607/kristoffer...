@@ -1,5 +1,5 @@
 .Pernalonga{
-    width: 70%;
+    width: 50%;
 }
 body{
     background-color: rgb(255, 255, 255);
@@ -8,5 +8,13 @@ body{
     text-align: center;
 }
 .foto{
+    text-align: center;
+}
+.logo{
+    width: 70%;
+}.logo{
+    text-align: center;
+}
+.sla{
     text-align: center;
 }

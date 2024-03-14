@@ -1,5 +1,5 @@
 .Pernalonga{
-    width: 50%;
+    width: 70%;
 }
 body{
     background-color: rgb(255, 255, 255);
@@ -17,4 +17,15 @@ body{
 }
 .sla{
     text-align: center;
+}
+.sobre{
+ text-align: center;
+
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+}
+.texto1{
+    width: 110%;
 }

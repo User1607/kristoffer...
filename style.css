@@ -1,5 +1,5 @@
 .Pernalonga{
-    width: 70%;
+    width: 50%;
 }
 body{
     background-color: rgb(255, 255, 255);
@@ -11,7 +11,7 @@ body{
     text-align: center;
 }
 .logo{
-    width: 70%;
+    width: 50%;
 }.logo{
     text-align: center;
 }
@@ -28,4 +28,18 @@ body{
 }
 .texto1{
     width: 110%;
+}
+
+.li{
+    text-align: center;
+    display: inline-block;
+    margin: 0 16px;
+}
+
+*{
+    margin: 0;
+    padding; 0
+}
+.nsei{
+    text-align: center;
 }
